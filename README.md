@@ -33,26 +33,22 @@ website/
 - Images are loaded from external URLs and therefore require an internet connection.
 - Admission requirements and academic offerings may change. Refer to the official institute website for current information.
 
-  Purpose
+## Purpose
 
 The main purpose of this project is to develop a college website that presents institutional and academic information in an organized manner. It also demonstrates the practical implementation of HTML and CSS in website development.
 
-Future Enhancements
+## Future Enhancements
 
-Online admission form with data submission.
+- Online admission form with data submission.
+- Student login and registration system.
+- Interactive contact form.
+- Dynamic department information.
+- Integration with a database for managing student information.
 
-Student login and registration system.
-
-Interactive contact form.
-
-Dynamic department information.
-
-Integration with a database for managing student information.
-
-Author
+## Author
 
 Developed as a website development project for MIT Moradabad.
 
-License
+## License
 
 This project is created for educational and academic purposes
